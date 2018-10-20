@@ -20,9 +20,9 @@ Provide interfaces for the following individuals:
 
 For Professors:
 
-a. Given the SSN of the professor, list the titles, classrooms, meeting days, and time of his/her classes
+a) Given the SSN of the professor, list the titles, classrooms, meeting days, and time of his/her classes
   
-b. Given a course number and a section number, count how many students get each distinct grade, i.e 'A', 'A-', etc.
+b) Given a course number and a section number, count how many students get each distinct grade, i.e 'A', 'A-', etc.
   
 For Students:
 
