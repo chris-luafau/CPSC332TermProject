@@ -21,9 +21,11 @@ Provide interfaces for the following individuals:
 For Professors:
 
   a. Given the SSN of the professor, list the titles, classrooms, meeting days, and time of his/her classes
+  
   b. Given a course number and a section number, count how many students get each distinct grade, i.e 'A', 'A-', etc.
   
 For Students:
 
   a. Given a course number, list the sections of the course, including the classrooms, the meeting days and time, and the number of students enrolled in each section.
+  
   b. Given the CWID of a student, list all courses the student took and the grades they received.
